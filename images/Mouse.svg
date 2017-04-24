@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="45px" viewBox="0 0 30 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Mouse</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="0" width="30" height="45" rx="15"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="45" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440" transform="translate(-705.000000, -898.000000)">
+            <g id="Mouse" transform="translate(704.000000, 898.000000)">
+                <g id="ic_keyboard_backspace_black_24px" transform="translate(16.000000, 20.000000) rotate(-90.000000) translate(-16.000000, -20.000000) translate(0.000000, 4.000000)">
+                    <g id="Group">
+                        <g id="Group-5">
+                            <polygon id="Shape" points="0 0 32 0 32 32 0 32"></polygon>
+                            <path d="M28.1198644,16.2815313 C28.1198644,15.6602109 27.6147838,15.1565313 26.990685,15.1565313 L6.83800361,15.1565313 L10.0697992,11.9157083 C10.5092546,11.4750254 10.5134633,10.765741 10.0723786,10.3246563 L10.0723786,10.3246563 C9.63434777,9.88662542 8.91634429,9.89444058 8.47843317,10.3323517 L3.33007405,15.4807108 C2.88779313,15.9229917 2.89216293,16.6444406 3.33007405,17.0823517 L8.47843317,22.2307108 C8.92071408,22.6729917 9.6312939,22.679491 10.0723786,22.2384063 L10.0723786,22.2384063 C10.5104095,21.8003754 10.5080899,21.0868691 10.0697992,20.6473542 L6.83800361,17.4065313 L26.990685,17.4065313 C27.6143136,17.4065313 28.1198644,16.9071833 28.1198644,16.2815313 L28.1198644,16.2815313 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+                <use id="Rectangle-2" stroke="#EDF1F4" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
